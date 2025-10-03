@@ -1,4 +1,4 @@
-En este proyecto explicare conceptos relacionados con la virtualizacion
+*En este proyecto explicare conceptos relacionados con la virtualizacion*
 
 Indice
 1 Concepto de virtualizacion
