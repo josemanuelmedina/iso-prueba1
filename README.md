@@ -2,6 +2,6 @@
 
 Indice
 [1.Concepto de virtualizacion](uno.md)
-2 Tipos de virtualizacion
+[2 Tipos de virtualizacion](dos.md)
 3 Conclusiones
 
